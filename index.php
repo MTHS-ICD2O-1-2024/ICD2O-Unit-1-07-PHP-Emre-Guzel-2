@@ -25,7 +25,7 @@
         <span class="mdl-layout-title">PHP</span>
       </div>
     </header>
-    <img class="JS" src="images/Javascirpt.jpg" alt="">
+    <img class="PHP" src="images/PHP.jpg" alt="">
     <br>
     <main id="click me " class="mdl-layout__content">
       <div class="page-content">
