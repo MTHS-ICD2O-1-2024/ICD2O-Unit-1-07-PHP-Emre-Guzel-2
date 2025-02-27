@@ -25,13 +25,12 @@
         <span class="mdl-layout-title">PHP</span>
       </div>
     </header>
-    <img class="PHP" src="images/PHP.jpg" alt="">
+    <img class="PHP" src="images/PHP.jpg" alt="php">
     <br>
     <main id="click me " class="mdl-layout__content">
       <div class="page-content">
         <?php echo '<p>Hello, World!, in PHP</p>'; ?>
         </div>
-      </button>
     </main>
   </div>
   </body>
