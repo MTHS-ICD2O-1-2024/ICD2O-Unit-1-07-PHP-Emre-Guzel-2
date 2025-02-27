@@ -2,3 +2,26 @@
 * Created on: Sep 2020
 * This file contains the CSS for index.html
 */
+
+/* Created by: Emre Guzel
+* Created on: Feb 26 2025
+* This file contains the CSS for index.html
+*/
+
+html {
+  font-size: 15px;
+}
+
+body {
+  font-family: "Atkinson Hyperlegible Mono", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  background: skyblue;
+  margin-left: 20%;
+}
+
+.JS {
+  margin-top: 3rem;
+  width: 30%;
+}
